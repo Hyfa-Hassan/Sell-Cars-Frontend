@@ -1,0 +1,22 @@
+.register {
+  /* width: 300px; */
+  padding: 20px;
+  height: min-content;
+  border-radius: 5px;
+  color: black;
+  background-color: rgb(238, 241, 243);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+}
+.wrapper {
+  height: 90vh;
+}
+
+.login {
+  width: 300px;
+  padding: 20px;
+  height: min-content;
+  border-radius: 5px;
+  color: black;
+  background-color: rgb(238, 241, 243);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+}
